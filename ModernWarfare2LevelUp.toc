@@ -5,7 +5,7 @@
 ## Author: DonnieDice
 ## Category: RGX
 ## Group: RGX
-## IconTexture: Interface\AddOns\ModernWarfare2LevelUp\media\icon
+## IconTexture: Interface\AddOns\ModernWarfare2LevelUp\media\icon.tga
 ## SavedVariables: MW2LUSettings
 ## RequiredDeps: RGX-Framework
 
