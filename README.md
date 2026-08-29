@@ -13,22 +13,21 @@
 
 ### <span style="color:#4F4F4F">⬛ </span> <span style="color:#e67e23">*"Tactical ding confirmed!" — Now in World of Warcraft!*</span> <span style="color:#4F4F4F">⬛</span>
 
-**<span style="color:#4F4F4F">M</span><span style="color:#fff">odern Warfare 2 </span><span style="color:#4F4F4F">L</span><span style="color:#fff">evel-</span><span style="color:#4F4F4F">U</span><span style="color:#fff">p</span><span style="color:#4F4F4F">!</span> <span style="color:#e67e23">is a professional</span> <span style="color:#06c">World of Warcraft</span> <span style="color:#e67e23">addon that transforms your leveling experience with a Modern Warfare 2-inspired level-up sound — across all WoW versions.</span>**
+**<span style="color:#4F4F4F">M</span><span style="color:#fff">odern Warfare 2 </span><span style="color:#4F4F4F">L</span><span style="color:#fff">evel-</span><span style="color:#4F4F4F">U</span><span style="color:#fff">p</span><span style="color:#4F4F4F">!</span> <span style="color:#e67e23">is a professional</span> <span style="color:#06c">World of Warcraft</span> <span style="color:#e67e23">addon that transforms your leveling experience with a Modern Warfare 2-inspired level-up sound — across supported WoW versions.</span>**
 
 **<span style="color:#4F4F4F">🎮 </span> <span style="color:#e67e23">Connect with fellow gamers, get support, and be part of the</span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods</span> <span style="color:#e67e23">family!</span>**
 
 ---
 
 <!-- GitHub Stats & Badges -->
-[![GitHub release](https://img.shields.io/github/v/release/donniedice/ModernWarfare2LevelUp?style=for-the-badge&logo=github&color=success)](https://github.com/RGXMods/ModernWarfare2LevelUp/releases)
-[![GitHub stars](https://img.shields.io/github/stars/donniedice/ModernWarfare2LevelUp?style=for-the-badge&logo=github&color=yellow)](https://github.com/RGXMods/ModernWarfare2LevelUp/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/donniedice/ModernWarfare2LevelUp?style=for-the-badge&logo=github&color=blue)](https://github.com/RGXMods/ModernWarfare2LevelUp/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/donniedice/ModernWarfare2LevelUp?style=for-the-badge&logo=github&color=red)](https://github.com/RGXMods/ModernWarfare2LevelUp/issues)
-[![GitHub license](https://img.shields.io/github/license/donniedice/ModernWarfare2LevelUp?style=for-the-badge&logo=github&color=lightgrey)](https://github.com/RGXMods/ModernWarfare2LevelUp/blob/main/LICENSE)
+[![GitHub release](https://img.shields.io/github/v/release/RGXMods/ModernWarfare2LevelUp?style=for-the-badge&logo=github&color=success)](https://github.com/RGXMods/ModernWarfare2LevelUp/releases)
+[![GitHub stars](https://img.shields.io/github/stars/RGXMods/ModernWarfare2LevelUp?style=for-the-badge&logo=github&color=yellow)](https://github.com/RGXMods/ModernWarfare2LevelUp/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/RGXMods/ModernWarfare2LevelUp?style=for-the-badge&logo=github&color=blue)](https://github.com/RGXMods/ModernWarfare2LevelUp/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/RGXMods/ModernWarfare2LevelUp?style=for-the-badge&logo=github&color=red)](https://github.com/RGXMods/ModernWarfare2LevelUp/issues)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/donniedice/ModernWarfare2LevelUp?style=flat-square&logo=github)](https://github.com/RGXMods/ModernWarfare2LevelUp/commits/main)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/donniedice/ModernWarfare2LevelUp?style=flat-square&logo=github)](https://github.com/RGXMods/ModernWarfare2LevelUp/graphs/contributors)
-[![GitHub repo size](https://img.shields.io/github/repo-size/donniedice/ModernWarfare2LevelUp?style=flat-square&logo=github)](https://github.com/RGXMods/ModernWarfare2LevelUp)
+[![GitHub last commit](https://img.shields.io/github/last-commit/RGXMods/ModernWarfare2LevelUp?style=flat-square&logo=github)](https://github.com/RGXMods/ModernWarfare2LevelUp/commits/main)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/RGXMods/ModernWarfare2LevelUp?style=flat-square&logo=github)](https://github.com/RGXMods/ModernWarfare2LevelUp/graphs/contributors)
+[![GitHub repo size](https://img.shields.io/github/repo-size/RGXMods/ModernWarfare2LevelUp?style=flat-square&logo=github)](https://github.com/RGXMods/ModernWarfare2LevelUp)
 
 <!-- Platform Badges -->
 [![CurseForge](https://img.shields.io/badge/CurseForge-Downloads-orange?style=flat-square&logo=curseforge)](https://www.curseforge.com/wow/addons/modernwarfare2levelup)
@@ -37,7 +36,7 @@
 <!-- WoW Compatibility -->
 [![WoW Retail](https://img.shields.io/badge/WoW-Midnight-4F4F4F?style=flat-square&logo=worldofwarcraft)](https://worldofwarcraft.com)
 [![WoW Classic](https://img.shields.io/badge/WoW-Classic%20Era-4F4F4F?style=flat-square&logo=worldofwarcraft)](https://worldofwarcraft.com)
-[![WoW Cataclysm](https://img.shields.io/badge/WoW-Cataclysm%20Classic-4F4F4F?style=flat-square&logo=worldofwarcraft)](https://worldofwarcraft.com)
+[![WoW TBC](https://img.shields.io/badge/WoW-Burning%20Crusade%20Classic-4F4F4F?style=flat-square&logo=worldofwarcraft)](https://worldofwarcraft.com)
 [![WoW Mists](https://img.shields.io/badge/WoW-Mists%20of%20Pandaria-4F4F4F?style=flat-square&logo=worldofwarcraft)](https://worldofwarcraft.com)
 
 [Features](#features) • [Quick Start](#quick-start) • [Commands](#command-reference) • [Compatibility](#compatibility) • [Installation](#installation) • [Support](#support)
@@ -99,7 +98,7 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 ### <span style="color:#4F4F4F">🔥 Why Choose MW2LU?</span>
 - **<span style="color:#2dc26b">🎮 RGX Quality:</span>** <span style="color:#e67e23">Built by the RealmGX community with passion</span>
 - **<span style="color:#b96ad9">🛠️ Professional Standards:</span>** <span style="color:#e67e23">Modern WoW addon architecture</span>
-- **<span style="color:#4ecdc4">🎯 Cross-Compatible:</span>** <span style="color:#e67e23">Works across all WoW versions</span>
+- **<span style="color:#4ecdc4">🎯 Cross-Compatible:</span>** <span style="color:#e67e23">Works across supported WoW versions</span>
 - **<span style="color:#ff6b6b">💬 Active Support:</span>** <span style="color:#e67e23">Join our Discord for instant help!</span>
 
 ---
@@ -135,10 +134,7 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 
 ## <span style="color:#4ecdc4">🎮 WoW Compatibility</span>
 - **<span style="color:#2dc26b">Midnight</span>** (Retail)
-- **<span style="color:#4F4F4F">The War Within</span>**
 - **<span style="color:#58be81">Mists of Pandaria Classic</span>**
-- **<span style="color:#b96ad9">Cataclysm Classic</span>**
-- **<span style="color:#ff6b6b">Wrath Classic</span>**
 - **<span style="color:#4ecdc4">Burning Crusade Classic</span>**
 - **<span style="color:#2dc26b">Classic Era</span>**
 
@@ -149,7 +145,7 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 - **<span style="color:#2dc26b">Login Message</span><span style="color:#3598db">:</span>** <span style="color:#e67e23">Toggleable welcome message</span>
 - **<span style="color:#4F4F4F">Lightweight</span><span style="color:#3598db">:</span>** <span style="color:#e67e23">Small, efficient addon footprint</span>
 - **<span style="color:#ff6b6b">RGX Branding</span><span style="color:#3598db">:</span>** <span style="color:#e67e23">Consistent community styling</span>
-- **<span style="color:#b96ad9">Multi-Version</span><span style="color:#3598db">:</span>** <span style="color:#e67e23">All WoW versions supported</span>
+- **<span style="color:#b96ad9">Multi-Version</span><span style="color:#3598db">:</span>** <span style="color:#e67e23">Multiple WoW versions supported</span>
 
 </td>
 </tr>
@@ -199,15 +195,14 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 
 | WoW Version | Interface | Status | TOC File |
 |-------------|-----------|--------|----------|
-| **Midnight (Retail)** | `120000` / `120001` | ✅ Fully Supported | `ModernWarfare2LevelUp.toc` |
-| **The War Within** | `110207` | ✅ Fully Supported | `ModernWarfare2LevelUp.toc` |
-| **Mists of Pandaria Classic** | `50503` | ✅ Fully Supported | `ModernWarfare2LevelUp.toc` |
-| **Cataclysm Classic** | `40402` | ✅ Fully Supported | `ModernWarfare2LevelUp.toc` |
-| **Wrath of the Lich King Classic** | `30403` | ✅ Fully Supported | `ModernWarfare2LevelUp_Wrath.toc` |
-| **Burning Crusade Classic** | `20504` | ✅ Fully Supported | `ModernWarfare2LevelUp_TBC.toc` |
-| **Classic Era** | `11508` | ✅ Fully Supported | `ModernWarfare2LevelUp_Vanilla.toc` |
+| **Midnight (Retail)** | `120007` | ✅ Fully Supported | `ModernWarfare2LevelUp.toc` |
+| **Mists of Pandaria Classic** | `50504` | ✅ Fully Supported | `ModernWarfare2LevelUp.toc` |
+| **Burning Crusade Classic** | `20506` | ✅ Fully Supported | `ModernWarfare2LevelUp.toc` |
+| **Classic Era** | `11509` | ✅ Fully Supported | `ModernWarfare2LevelUp.toc` |
 
 </div>
+
+**<span style="color:#ff6b6b">Required Dependency:</span>** <span style="color:#e67e23">[RGX-Framework](https://github.com/RGXMods/RGX-Framework) must be installed and enabled.</span>
 
 ---
 
@@ -304,12 +299,6 @@ volume = "Master"        -- Volume channel
 - <span style="color:#2dc26b">🐛 **Report bugs**</span> <span style="color:#e67e23">via</span> [<span style="color:#b96ad9">GitHub Issues</span>](https://github.com/RGXMods/ModernWarfare2LevelUp/issues)
 - <span style="color:#ff6b6b">💡 **Suggest features**</span> <span style="color:#e67e23">in our</span> [<span style="color:#7289da">Discord</span>](https://discord.gg/N7kdKAHVVF)
 - <span style="color:#2dc26b">⭐ **Star the repository**</span> <span style="color:#e67e23">to show your support</span>
-
----
-
-## <span style="color:#4F4F4F">📄 License</span>
-
-<span style="color:#e67e23">This project is licensed under the</span> [<span style="color:#2dc26b">MIT License</span>](https://github.com/RGXMods/ModernWarfare2LevelUp/blob/main/LICENSE)<span style="color:#e67e23">.</span>
 
 ---
 
