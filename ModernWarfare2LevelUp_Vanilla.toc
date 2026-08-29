@@ -11,7 +11,6 @@
 ## X-Website: https://github.com/RGXMods/ModernWarfare2LevelUp
 ## X-Curse-Project-ID: 594126
 ## X-Wago-ID: n6VPemGd
-## X-WoWI-ID: 26258
 
 data\locales.lua
 data\core.lua
