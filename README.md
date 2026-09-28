@@ -195,10 +195,13 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 
 | WoW Version | Interface | Status | TOC File |
 |-------------|-----------|--------|----------|
-| **Midnight (Retail)** | `120007` | ✅ Fully Supported | `ModernWarfare2LevelUp.toc` |
-| **Mists of Pandaria Classic** | `50504` | ✅ Fully Supported | `ModernWarfare2LevelUp.toc` |
-| **Burning Crusade Classic** | `20506` | ✅ Fully Supported | `ModernWarfare2LevelUp.toc` |
-| **Classic Era** | `11509` | ✅ Fully Supported | `ModernWarfare2LevelUp.toc` |
+| **Midnight (Retail)** | `120100` | ✅ Fully Supported | `ModernWarfare2LevelUp.toc` |
+| **WoW Forever (Beta)** | `16001` | ✅ Fully Supported | `ModernWarfare2LevelUp_Forever.toc` |
+| **Mists of Pandaria Classic** | `50504` | ✅ Fully Supported | `ModernWarfare2LevelUp_Mists.toc` |
+| **Cataclysm Classic** | `40402` | ✅ Fully Supported | `ModernWarfare2LevelUp_Cata.toc` |
+| **Wrath of the Lich King Classic** | `38002` | ✅ Fully Supported | `ModernWarfare2LevelUp_Wrath.toc` |
+| **Burning Crusade Classic** | `20506` | ✅ Fully Supported | `ModernWarfare2LevelUp_TBC.toc` |
+| **Classic Era** | `11509` | ✅ Fully Supported | `ModernWarfare2LevelUp_Vanilla.toc` |
 
 </div>
 
