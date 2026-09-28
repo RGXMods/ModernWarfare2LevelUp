@@ -132,6 +132,13 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 <tr>
 <td width="50%" valign="top">
 
+### <span style="color:#4ecdc4">🌍 Language Support</span>
+- **<span style="color:#2dc26b">12 locales:</span>** <span style="color:#e67e23">Full user-interface coverage in enUS (English), deDE (German), esES/esMX (Spanish), frFR (French), itIT (Italian), koKR (Korean), ptBR (Brazilian Portuguese), ptPT (European Portuguese), ruRU (Russian), zhCN (Simplified Chinese), and zhTW (Traditional Chinese)</span>
+- **<span style="color:#4F4F4F">Automatic detection:</span>** <span style="color:#e67e23">Follows your WoW client language automatically, with English fallback for anything missing</span>
+
+</td>
+<td width="50%" valign="top">
+
 ## <span style="color:#4ecdc4">🎮 WoW Compatibility</span>
 - **<span style="color:#2dc26b">Midnight</span>** (Retail)
 - **<span style="color:#58be81">Mists of Pandaria Classic</span>**
