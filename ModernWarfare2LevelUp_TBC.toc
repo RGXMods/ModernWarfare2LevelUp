@@ -12,7 +12,7 @@
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/RGXMods/ModernWarfare2LevelUp
 ## X-Curse-Project-ID: 594126
-## X-Wago-ID: n6VPemGd
+## X-Wago-ID: 7nGvb5Gx
 ## X-Localizations: enUS, deDE, esES, esMX, frFR, itIT, koKR, ptBR, ptPT, ruRU, zhCN, zhTW
 
 data\locales.lua
