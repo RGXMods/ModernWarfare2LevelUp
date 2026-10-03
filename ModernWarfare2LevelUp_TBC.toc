@@ -1,4 +1,4 @@
-﻿## Interface: 20506
+## Interface: 20506
 ## Version: 3.0.5
 ## Title:  |cff4F4F4FM|r|cffffffffodern Warfare 2 |r|cff4F4F4FL|r|cffffffffevel-|r|cff4F4F4FU|r|cffffffffp|r|cff4F4F4F!|r
 ## Notes:  Play a Modern Warfare 2-inspired level-up sound!  |n|r  |cff4F4F4F/mw2lu -|r Open help  |n|r   |cff4F4F4FBy DonnieDice|r
