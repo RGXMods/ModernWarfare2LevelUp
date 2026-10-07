@@ -8,14 +8,14 @@
 [![MW2LU](https://img.shields.io/badge/MW2LU-Modern%20Warfare%202%20Level%20Up!-4F4F4F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RGXMods/ModernWarfare2LevelUp)
 [![RGX Mods](https://img.shields.io/badge/RGX-Mods%20Collection-8B1538?style=for-the-badge&logo=github&logoColor=white)](https://discord.gg/N7kdKAHVVF)
 
-### <span style="color:#4F4F4F">🌟 Join the </span> <span style="color:#8B1538">R</span><span style="color:#7598b6">ealm</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Community</span> <span style="color:#3598db">-</span> <span style="color:#8B1538">G</span><span style="color:#7598b6">amers e</span><span style="color:#8B1538">X</span><span style="color:#7598b6">treme!</span> <span style="color:#4F4F4F">🌟</span>
+### <span style="color:#4F4F4F">Join the </span> <span style="color:#8B1538">R</span><span style="color:#7598b6">ealm</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Community</span> <span style="color:#3598db">-</span> <span style="color:#8B1538">G</span><span style="color:#7598b6">amers e</span><span style="color:#8B1538">X</span><span style="color:#7598b6">treme!</span> <span style="color:#4F4F4F"></span>
 [![Discord](https://img.shields.io/badge/Join%20Our%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/N7kdKAHVVF)
 
 ### <span style="color:#4F4F4F">⬛ </span> <span style="color:#e67e23">*"Tactical ding confirmed!" — Now in World of Warcraft!*</span> <span style="color:#4F4F4F">⬛</span>
 
 **<span style="color:#4F4F4F">M</span><span style="color:#fff">odern Warfare 2 </span><span style="color:#4F4F4F">L</span><span style="color:#fff">evel-</span><span style="color:#4F4F4F">U</span><span style="color:#fff">p</span><span style="color:#4F4F4F">!</span> <span style="color:#e67e23">is a professional</span> <span style="color:#06c">World of Warcraft</span> <span style="color:#e67e23">addon that transforms your leveling experience with a Modern Warfare 2-inspired level-up sound — across supported WoW versions.</span>**
 
-**<span style="color:#4F4F4F">🎮 </span> <span style="color:#e67e23">Connect with fellow gamers, get support, and be part of the</span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods</span> <span style="color:#e67e23">family!</span>**
+**<span style="color:#4F4F4F"></span> <span style="color:#e67e23">Connect with fellow gamers, get support, and be part of the</span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods</span> <span style="color:#e67e23">family!</span>**
 
 ---
 
@@ -45,27 +45,27 @@
 
 ---
 
-## <span style="color:#4F4F4F">🌟 Join the </span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods Community!</span>
+## <span style="color:#4F4F4F">Join the </span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods Community!</span>
 
 <div align="center">
 
-### <span style="color:#b96ad9">💬 </span> <span style="color:#8B1538">R</span><span style="color:#7598b6">ealm</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4F4F4F">Discord</span> <span style="color:#3598db">-</span> <span style="color:#2dc26b">Your Gaming Home!</span>
+### <span style="color:#b96ad9"></span> <span style="color:#8B1538">R</span><span style="color:#7598b6">ealm</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4F4F4F">Discord</span> <span style="color:#3598db">-</span> <span style="color:#2dc26b">Your Gaming Home!</span>
 
 [![Join Discord](https://img.shields.io/badge/Join%20Our%20Discord-RealmGX%20Community-7289da?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/N7kdKAHVVF)
 
-**<span style="color:#4F4F4F">🎮 </span> [<span style="color:#8B1538">R</span><span style="color:#7598b6">ealm </span> <span style="color:#8B1538">G</span><span style="color:#7598b6">amers e</span><span style="color:#8B1538">X</span><span style="color:#7598b6">treme</span>](https://realmgx.com) <span style="color:#3598db">-</span> <span style="color:#4ecdc4">Where WoW Enthusiasts Unite!</span>**
+**<span style="color:#4F4F4F"></span> [<span style="color:#8B1538">R</span><span style="color:#7598b6">ealm </span> <span style="color:#8B1538">G</span><span style="color:#7598b6">amers e</span><span style="color:#8B1538">X</span><span style="color:#7598b6">treme</span>](https://realmgx.com) <span style="color:#3598db">-</span> <span style="color:#4ecdc4">Where WoW Enthusiasts Unite!</span>**
 
-**<span style="color:#e67e23">✨ What awaits you in our Discord:</span>**
-- <span style="color:#2dc26b">🛠️ **Instant addon support**</span> <span style="color:#e67e23">from the</span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods</span> <span style="color:#e67e23">team</span>
-- <span style="color:#ff6b6b">🎯 **Feature requests**</span> <span style="color:#e67e23">and direct dev communication</span>
-- <span style="color:#b96ad9">🚀 **Beta testing**</span> <span style="color:#e67e23">opportunities for new releases</span>
-- <span style="color:#4ecdc4">🤝 **Community of WoW players**</span> <span style="color:#e67e23">sharing tips and experiences</span>
-- <span style="color:#4F4F4F">📢 **First to know**</span> <span style="color:#e67e23">about new</span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods</span> <span style="color:#e67e23">releases</span>
-- <span style="color:#e67e23">🎉 **Events, giveaways**, and community activities</span>
+**<span style="color:#e67e23">What awaits you in our Discord:</span>**
+- <span style="color:#2dc26b">**Instant addon support**</span> <span style="color:#e67e23">from the</span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods</span> <span style="color:#e67e23">team</span>
+- <span style="color:#ff6b6b">**Feature requests**</span> <span style="color:#e67e23">and direct dev communication</span>
+- <span style="color:#b96ad9">**Beta testing**</span> <span style="color:#e67e23">opportunities for new releases</span>
+- <span style="color:#4ecdc4">**Community of WoW players**</span> <span style="color:#e67e23">sharing tips and experiences</span>
+- <span style="color:#4F4F4F">**First to know**</span> <span style="color:#e67e23">about new</span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods</span> <span style="color:#e67e23">releases</span>
+- <span style="color:#e67e23">**Events, giveaways**, and community activities</span>
 
 <img src="media/logo.png" alt="MW2LU Logo" width="100">
 
-**<span style="color:#ff6b6b">⚠️ WARNING:</span>** <span style="color:#e67e23">May cause excessive nostalgia.</span>
+**<span style="color:#ff6b6b">WARNING:</span>** <span style="color:#e67e23">May cause excessive nostalgia.</span>
 
 **<span style="color:#2dc26b">The Kiwi Says:</span>** <span style="color:#b96ad9">"Bwwiiiee."</span>
 
@@ -74,7 +74,7 @@
 ---
 
 <a id="support"></a>
-## <span style="color:#4F4F4F">💖 Support </span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods</span>
+## <span style="color:#4F4F4F">Support </span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods</span>
 
 <div align="center">
 
@@ -83,7 +83,7 @@
 | | |
 |---|---|
 | [![Donate](https://img.shields.io/badge/Donate-CashApp-00C853?style=for-the-badge&logo=cash-app&logoColor=white)](https://bit.ly/3fyxxSU) | [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/donniedice) |
-| [![GitHub Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/donniedice) | [![Star](https://img.shields.io/badge/⭐-Star%20this%20repository-yellow?style=for-the-badge&logo=github)](https://github.com/RGXMods/ModernWarfare2LevelUp) |
+| [![GitHub Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/donniedice) | [![Star](https://img.shields.io/badge/-Star%20this%20repository-yellow?style=for-the-badge&logo=github)](https://github.com/RGXMods/ModernWarfare2LevelUp) |
 
 _<span style="color:#e67e23">Every donation helps fund new features and improvements!</span>_
 
@@ -91,20 +91,20 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 
 ---
 
-## <span style="color:#4F4F4F">🎯 What is MW2LU?</span>
+## <span style="color:#4F4F4F">What is MW2LU?</span>
 
 **<span style="color:#4F4F4F">M</span><span style="color:#fff">odern Warfare 2 </span><span style="color:#4F4F4F">L</span><span style="color:#fff">evel-</span><span style="color:#4F4F4F">U</span><span style="color:#fff">p</span><span style="color:#4F4F4F">!</span>** <span style="color:#e67e23">is the ultimate</span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods</span> <span style="color:#e67e23">creation for bringing that tactical, arcade-style Modern Warfare 2 level-up hit directly into your</span> <span style="color:#06c">World of Warcraft</span> <span style="color:#e67e23">experience. No more bland WoW level-up sounds — now you get the iconic MW2 ding that made every rank-up feel like a tactical achievement!</span>
 
-### <span style="color:#4F4F4F">🔥 Why Choose MW2LU?</span>
-- **<span style="color:#2dc26b">🎮 RGX Quality:</span>** <span style="color:#e67e23">Built by the RealmGX community with passion</span>
-- **<span style="color:#b96ad9">🛠️ Professional Standards:</span>** <span style="color:#e67e23">Modern WoW addon architecture</span>
-- **<span style="color:#4ecdc4">🎯 Cross-Compatible:</span>** <span style="color:#e67e23">Works across supported WoW versions</span>
-- **<span style="color:#ff6b6b">💬 Active Support:</span>** <span style="color:#e67e23">Join our Discord for instant help!</span>
+### <span style="color:#4F4F4F">Why Choose MW2LU?</span>
+- **<span style="color:#2dc26b">RGX Quality:</span>** <span style="color:#e67e23">Built by the RealmGX community with passion</span>
+- **<span style="color:#b96ad9">Professional Standards:</span>** <span style="color:#e67e23">Modern WoW addon architecture</span>
+- **<span style="color:#4ecdc4">Cross-Compatible:</span>** <span style="color:#e67e23">Works across supported WoW versions</span>
+- **<span style="color:#ff6b6b">Active Support:</span>** <span style="color:#e67e23">Join our Discord for instant help!</span>
 
 ---
 
 <a id="features"></a>
-## <span style="color:#4F4F4F">✨ Features</span>
+## <span style="color:#4F4F4F">Features</span>
 
 <div align="center">
 
@@ -112,7 +112,7 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 <tr>
 <td width="50%" valign="top">
 
-### <span style="color:#4ecdc4">🎵 Audio Experience</span>
+### <span style="color:#4ecdc4">Audio Experience</span>
 - **<span style="color:#2dc26b">MW2 Sound</span><span style="color:#3598db">:</span>** <span style="color:#e67e23">Authentic Modern Warfare 2-inspired level-up sound</span>
 - **<span style="color:#4F4F4F">Quality Options</span><span style="color:#3598db">:</span>** <span style="color:#e67e23">High, medium, or low quality variants</span>
 - **<span style="color:#58be81">Volume Control</span><span style="color:#3598db">:</span>** <span style="color:#e67e23">Master channel integration</span>
@@ -121,7 +121,7 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 </td>
 <td width="50%" valign="top">
 
-### <span style="color:#4ecdc4">⚙️ Advanced Settings</span>
+### <span style="color:#4ecdc4">Advanced Settings</span>
 - **<span style="color:#2dc26b">Persistent Config</span><span style="color:#3598db">:</span>** <span style="color:#e67e23">Settings saved across sessions</span>
 - **<span style="color:#4F4F4F">Instant Commands</span><span style="color:#3598db">:</span>** <span style="color:#e67e23">Simplified slash command system</span>
 - **<span style="color:#ff6b6b">Error Handling</span><span style="color:#3598db">:</span>** <span style="color:#e67e23">Robust protection against crashes</span>
@@ -132,14 +132,14 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 <tr>
 <td width="50%" valign="top">
 
-### <span style="color:#4ecdc4">🌍 Language Support</span>
+### <span style="color:#4ecdc4">Language Support</span>
 - **<span style="color:#2dc26b">12 locales:</span>** <span style="color:#e67e23">Full user-interface coverage in enUS (English), deDE (German), esES/esMX (Spanish), frFR (French), itIT (Italian), koKR (Korean), ptBR (Brazilian Portuguese), ptPT (European Portuguese), ruRU (Russian), zhCN (Simplified Chinese), and zhTW (Traditional Chinese)</span>
 - **<span style="color:#4F4F4F">Automatic detection:</span>** <span style="color:#e67e23">Follows your WoW client language automatically, with English fallback for anything missing</span>
 
 </td>
 <td width="50%" valign="top">
 
-## <span style="color:#4ecdc4">🎮 WoW Compatibility</span>
+## <span style="color:#4ecdc4">WoW Compatibility</span>
 - **<span style="color:#2dc26b">Midnight</span>** (Retail)
 - **<span style="color:#58be81">Mists of Pandaria Classic</span>**
 - **<span style="color:#4ecdc4">Burning Crusade Classic</span>**
@@ -148,7 +148,7 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 </td>
 <td width="50%" valign="top">
 
-### <span style="color:#4ecdc4">🔧 Quality of Life</span>
+### <span style="color:#4ecdc4">Quality of Life</span>
 - **<span style="color:#2dc26b">Login Message</span><span style="color:#3598db">:</span>** <span style="color:#e67e23">Toggleable welcome message</span>
 - **<span style="color:#4F4F4F">Lightweight</span><span style="color:#3598db">:</span>** <span style="color:#e67e23">Small, efficient addon footprint</span>
 - **<span style="color:#ff6b6b">RGX Branding</span><span style="color:#3598db">:</span>** <span style="color:#e67e23">Consistent community styling</span>
@@ -163,7 +163,7 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 ---
 
 <a id="quick-start"></a>
-## <span style="color:#4F4F4F">🚀 Quick Start</span>
+## <span style="color:#4F4F4F">Quick Start</span>
 
 1. **<span style="color:#2dc26b">Install</span>** <span style="color:#4F4F4F">M</span><span style="color:#fff">odern Warfare 2 </span><span style="color:#4F4F4F">L</span><span style="color:#fff">evel-</span><span style="color:#4F4F4F">U</span><span style="color:#fff">p</span><span style="color:#4F4F4F">!</span> <span style="color:#e67e23">from your preferred platform</span>
 2. **<span style="color:#4ecdc4">Extract</span>** <span style="color:#e67e23">to your WoW AddOns directory</span>
@@ -174,7 +174,7 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 ---
 
 <a id="command-reference"></a>
-## <span style="color:#4F4F4F">📋 Command Reference</span>
+## <span style="color:#4F4F4F">Command Reference</span>
 
 <span style="color:#e67e23">Use</span> <span style="color:#2dc26b">`/mw2lu`</span> <span style="color:#e67e23">followed by</span><span style="color:#3598db">:</span>
 
@@ -196,19 +196,19 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 ---
 
 <a id="compatibility"></a>
-## <span style="color:#4F4F4F">📋 Compatibility</span>
+## <span style="color:#4F4F4F">Compatibility</span>
 
 <div align="center">
 
 | WoW Version | Interface | Status | TOC File |
 |-------------|-----------|--------|----------|
-| **Midnight (Retail)** | `120100` | ✅ Fully Supported | `ModernWarfare2LevelUp.toc` |
-| **WoW Forever (Beta)** | `16001` | ✅ Fully Supported | `ModernWarfare2LevelUp_Forever.toc` |
-| **Mists of Pandaria Classic** | `50504` | ✅ Fully Supported | `ModernWarfare2LevelUp_Mists.toc` |
-| **Cataclysm Classic** | `40402` | ✅ Fully Supported | `ModernWarfare2LevelUp_Cata.toc` |
-| **Wrath of the Lich King Classic** | `38002` | ✅ Fully Supported | `ModernWarfare2LevelUp_Wrath.toc` |
-| **Burning Crusade Classic** | `20506` | ✅ Fully Supported | `ModernWarfare2LevelUp_TBC.toc` |
-| **Classic Era** | `11509` | ✅ Fully Supported | `ModernWarfare2LevelUp_Vanilla.toc` |
+| **Midnight (Retail)** | `120100` | Fully Supported | `ModernWarfare2LevelUp.toc` |
+| **WoW Forever (Beta)** | `16001` | Fully Supported | `ModernWarfare2LevelUp_Forever.toc` |
+| **Mists of Pandaria Classic** | `50504` | Fully Supported | `ModernWarfare2LevelUp_Mists.toc` |
+| **Cataclysm Classic** | `40402` | Fully Supported | `ModernWarfare2LevelUp_Cata.toc` |
+| **Wrath of the Lich King Classic** | `38002` | Fully Supported | `ModernWarfare2LevelUp_Wrath.toc` |
+| **Burning Crusade Classic** | `20506` | Fully Supported | `ModernWarfare2LevelUp_TBC.toc` |
+| **Classic Era** | `11509` | Fully Supported | `ModernWarfare2LevelUp_Vanilla.toc` |
 
 </div>
 
@@ -217,7 +217,7 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 ---
 
 <a id="installation"></a>
-## <span style="color:#4F4F4F">📥 Installation</span>
+## <span style="color:#4F4F4F">Installation</span>
 
 1. **<span style="color:#2dc26b">Download</span>** <span style="color:#e67e23">from your preferred platform</span><span style="color:#3598db">:</span>
    - [<span style="color:#ff6b6b">CurseForge</span>](https://www.curseforge.com/wow/addons/modernwarfare2levelup) _(Recommended)_
@@ -233,26 +233,26 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 
 ---
 
-## <span style="color:#4F4F4F">🆕 What's New in v2.0.4</span>
+## <span style="color:#4F4F4F">What's New in v2.0.4</span>
 
-<span style="color:#4F4F4F">🎉 Click to see the latest updates!</span>
+<span style="color:#4F4F4F">Click to see the latest updates!</span>
 
-### <span style="color:#4ecdc4">🆕 Major Updates</span>
-- <span style="color:#2dc26b">✅ **Simplified command structure**</span> <span style="color:#e67e23">— direct sound selection</span>
-- <span style="color:#4F4F4F">✅ **Auto-unmute default sound**</span> <span style="color:#e67e23">when disabling addon</span>
-- <span style="color:#ff6b6b">✅ **Improved performance**</span> <span style="color:#e67e23">with optimized code</span>
-- <span style="color:#b96ad9">✅ **Updated TOC files**</span> <span style="color:#e67e23">for all WoW versions</span>
+### <span style="color:#4ecdc4">Major Updates</span>
+- <span style="color:#2dc26b">**Simplified command structure**</span> <span style="color:#e67e23">— direct sound selection</span>
+- <span style="color:#4F4F4F">**Auto-unmute default sound**</span> <span style="color:#e67e23">when disabling addon</span>
+- <span style="color:#ff6b6b">**Improved performance**</span> <span style="color:#e67e23">with optimized code</span>
+- <span style="color:#b96ad9">**Updated TOC files**</span> <span style="color:#e67e23">for all WoW versions</span>
 
-### <span style="color:#4ecdc4">🔧 Improvements</span>
-- <span style="color:#2dc26b">✅ **Cleaner user experience**</span>
-- <span style="color:#4F4F4F">✅ **Better memory efficiency**</span>
-- <span style="color:#ff6b6b">✅ **Consistent RGX Mods branding**</span>
-- <span style="color:#b96ad9">✅ **Updated documentation**</span>
+### <span style="color:#4ecdc4">Improvements</span>
+- <span style="color:#2dc26b">**Cleaner user experience**</span>
+- <span style="color:#4F4F4F">**Better memory efficiency**</span>
+- <span style="color:#ff6b6b">**Consistent RGX Mods branding**</span>
+- <span style="color:#b96ad9">**Updated documentation**</span>
 
 
 ---
 
-## <span style="color:#4F4F4F">🛠️ Configuration Tips</span>
+## <span style="color:#4F4F4F">Configuration Tips</span>
 
 <table width="100%">
 <tr>
@@ -282,13 +282,13 @@ volume = "Master"        -- Volume channel
 
 ---
 
-## <span style="color:#4F4F4F">🐛 Known Issues</span>
+## <span style="color:#4F4F4F">Known Issues</span>
 
 - <span style="color:#e67e23">No known issues at this time. Report any problems via</span> [<span style="color:#ff6b6b">GitHub Issues</span>](https://github.com/RGXMods/ModernWarfare2LevelUp/issues) <span style="color:#e67e23">or our</span> [<span style="color:#7289da">Discord</span>](https://discord.gg/N7kdKAHVVF)<span style="color:#e67e23">.</span>
 
 ---
 
-## <span style="color:#4F4F4F">🔧 Troubleshooting</span>
+## <span style="color:#4F4F4F">Troubleshooting</span>
 
 **<span style="color:#ff6b6b">No sound playing?</span>**
 - <span style="color:#e67e23">Run</span> `/mw2lu test` <span style="color:#e67e23">to verify installation and sound playback</span>
@@ -303,25 +303,25 @@ volume = "Master"        -- Volume channel
 
 ---
 
-## <span style="color:#4F4F4F">🤝 Contributing</span>
+## <span style="color:#4F4F4F">Contributing</span>
 
 <span style="color:#e67e23">Contributions are welcome! Feel free to</span><span style="color:#3598db">:</span>
-- <span style="color:#2dc26b">🐛 **Report bugs**</span> <span style="color:#e67e23">via</span> [<span style="color:#b96ad9">GitHub Issues</span>](https://github.com/RGXMods/ModernWarfare2LevelUp/issues)
-- <span style="color:#ff6b6b">💡 **Suggest features**</span> <span style="color:#e67e23">in our</span> [<span style="color:#7289da">Discord</span>](https://discord.gg/N7kdKAHVVF)
-- <span style="color:#2dc26b">⭐ **Star the repository**</span> <span style="color:#e67e23">to show your support</span>
+- <span style="color:#2dc26b">**Report bugs**</span> <span style="color:#e67e23">via</span> [<span style="color:#b96ad9">GitHub Issues</span>](https://github.com/RGXMods/ModernWarfare2LevelUp/issues)
+- <span style="color:#ff6b6b">**Suggest features**</span> <span style="color:#e67e23">in our</span> [<span style="color:#7289da">Discord</span>](https://discord.gg/N7kdKAHVVF)
+- <span style="color:#2dc26b">**Star the repository**</span> <span style="color:#e67e23">to show your support</span>
 
 ---
 
 <div align="center">
 
-### <span style="color:#4ecdc4">🌟 Thank you for choosing </span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods! 🌟</span>
+### <span style="color:#4ecdc4">Thank you for choosing </span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods! </span>
 
-**<span style="color:#e67e23">Made with ❤️ by the</span> [<span style="color:#8B1538">R</span><span style="color:#7598b6">ealm</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span>](https://realmgx.com) <span style="color:#4F4F4F">Community</span>**
+**<span style="color:#e67e23">Made with by the</span> [<span style="color:#8B1538">R</span><span style="color:#7598b6">ealm</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span>](https://realmgx.com) <span style="color:#4F4F4F">Community</span>**
 **<span style="color:#2dc26b">Lead Developer</span><span style="color:#3598db">:</span>** [<span style="color:#b96ad9">DonnieDice</span>](https://github.com/donniedice)
 
 _<span style="color:#e67e23">"May your levels be swift and your rank-ups be tactical!"</span>_
 
-**<span style="color:#4F4F4F">⚠️ WARNING:</span>** <span style="color:#e67e23">May cause excessive nostalgia.</span>
+**<span style="color:#4F4F4F">WARNING:</span>** <span style="color:#e67e23">May cause excessive nostalgia.</span>
 
 <img src="media/logo.png" alt="MW2LU Logo" width="80">
 
